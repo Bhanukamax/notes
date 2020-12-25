@@ -1,4 +1,8 @@
- A good article on how to start learning ocaml
+
+Learning OCaml
+==============
+
+A good article on how to start learning ocaml
 
 [https://www.rockyourcode.com/how-to-learn-ocaml/](https://www.rockyourcode.com/how-to-learn-ocaml/)
 
